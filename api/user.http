@@ -1,0 +1,16 @@
+token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzMTc1YzRkZDc3MjQzODgzNjI3OTllNyIsIm5hbWUiOiJzaGl2YW0iLCJpYXQiOjE2NjI1NTMzODJ9.2uW_RdKck5tP92ETmqDXxUByQ6FADsNnZBMii74ddgg
+
+###
+
+GET http://localhost:5000/user/63175c4dd7724388362799e7
+Content-Type: application/json
+
+###
+
+GET  http://localhost:5000/login
+Content-Type: application/json
+
+{
+    "email": "doberm@gmail.com",
+    "password": "12345"
+}
