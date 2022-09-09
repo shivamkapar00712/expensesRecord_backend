@@ -60,3 +60,21 @@
 {"level":"info","message":"successfully connected to the database"}
 {"level":"info","message":"listening on port 5000"}
 {"level":"info","message":"successfully connected to the database"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"0:0:0:0","level":"error","syscall":"getaddrinfo"}
+{"level":"info","message":"successfully connected to the database"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"0:0:0:0","level":"error","syscall":"getaddrinfo"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.cluster0.wfhctg3.mongodb.net","level":"error","syscall":"querySrv"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"0:0:0:0","level":"error","syscall":"getaddrinfo"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.cluster0.wfhctg3.mongodb.net","level":"error","syscall":"querySrv"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"0:0:0:0","level":"error","syscall":"getaddrinfo"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.cluster0.wfhctg3.mongodb.net","level":"error","syscall":"querySrv"}
+{"level":"info","message":"listing on port 5000"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.cluster0.wfhctg3.mongodb.net","level":"error","syscall":"querySrv"}
+{"level":"info","message":"listing on port 5000"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.cluster0.wfhctg3.mongodb.net","level":"error","syscall":"querySrv"}
+{"level":"info","message":"listing on port 5000"}
+{"level":"info","message":"successfully connected to the database"}
+{"level":"info","message":"listing on port 5000"}
+{"level":"info","message":"successfully connected to the database"}
+{"level":"info","message":"listing on port 5000"}
+{"level":"info","message":"successfully connected to the database"}
