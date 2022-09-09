@@ -16,4 +16,4 @@ app.get("/", (req, res) => {
   res.send("this is root of the application");
 });
 //listining application
-app.listen(5000, () => handleErrors.logInfo("listening on port 5000"));
+app.listen(process.env.PORT || 5000,'0:0:0:0', () => handleErrors.logInfo(`listing on port ${process.env.PORT || 5000}`));
